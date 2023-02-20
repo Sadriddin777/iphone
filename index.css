@@ -12,7 +12,7 @@ body {
   width: 300px;
   height: 600px;
   position: relative;
-  background: bisque;
+  background: red;
   border-radius: 30px;
   border: 3px solid silver;
 }
